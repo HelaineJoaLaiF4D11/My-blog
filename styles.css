@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:azure;
+}
+
+h1{
+	color: darkcyan;
+	text-align: center;
+}
+
+#b{
+	color:cadetblue;
+	text-align: right;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+p{
+	line-height: 10;
+}
+
+p{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+#a {color:purple}
+
+.blue {
+	color: darkslateblue
+}
+
+.red {
+	color: red
+}
